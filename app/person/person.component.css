@@ -1,0 +1,9 @@
+form * {
+  margin-bottom: 0.5rem;
+}
+
+.error-message {
+  color: red;
+  font-size: 0.75rem;
+  margin-left: 1rem;
+}
